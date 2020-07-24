@@ -6,3 +6,5 @@ A predição envolve uma classificação de um determinado conteudo do tweet se 
 
 ![](bar3.png)
 ## Afim de compartilhar conhecimento e testar os meus conhecimentos adquiridos :heart: .
+
+### Abordando modelos classicos e redes neurais
