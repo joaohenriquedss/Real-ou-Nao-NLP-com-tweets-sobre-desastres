@@ -8,3 +8,12 @@ A predição envolve uma classificação de um determinado conteudo do tweet se 
 ## Afim de compartilhar conhecimento e testar os meus conhecimentos adquiridos :heart: .
 
 ### Abordando modelos classicos e redes neurais
+
+## O modelo de validação usará essas medricas a seguir 
+
+
+![](Imagens/tabela.jpeg)
+
+## As formulas utilizadas serão essas
+
+![](Imagens/formulas.png)
