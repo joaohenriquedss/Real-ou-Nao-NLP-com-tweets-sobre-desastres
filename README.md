@@ -4,16 +4,24 @@ O Twitter se tornou um importante canal de comunicação em tempos de emergênci
 
 A predição envolve uma classificação de um determinado conteudo do tweet se contém uma noticia sobre desatre real ou não.
 
-![](bar3.png)
+
+<p align="center">
+  <img src="bar3.png" width="750" height="600" >
+</p>
+
+
 ## Afim de compartilhar conhecimento e testar os meus conhecimentos adquiridos :heart: .
 
 ### Abordando modelos classicos e redes neurais
 
 ## O modelo de validação usará essas medricas a seguir 
 
-
-![](Imagens/tabela.jpeg)
+<p align="center">
+  <img src="Imagens/tabela.jpeg" width="800" height="600" >
+</p>
 
 ## As formulas utilizadas serão essas
 
-![](Imagens/formulas.png)
+<p align="center">
+  <img src="Imagens/formulas.png" width="500" height="300" >
+</p>
