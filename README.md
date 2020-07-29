@@ -23,5 +23,5 @@ A predição envolve uma classificação de um determinado conteudo do tweet se 
 ## As formulas utilizadas serão essas
 
 <p align="center">
-  <img src="Imagens/formulas.png" width="500" height="300" >
+  <img src="Imagens/formulas.png" width="400" height="250" >
 </p>
