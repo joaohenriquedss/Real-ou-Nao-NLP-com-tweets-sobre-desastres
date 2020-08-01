@@ -14,7 +14,7 @@ A predição envolve uma classificação de um determinado conteudo do tweet se 
 
 ## Abordando modelos classicos e redes neurais
 
-## O modelo de validação usará essas medricas a seguir 
+## O modelo usado para a validação usará as medricas a seguir 
 
 <p align="center">
   <img src="Imagens/tabela.jpeg" width="800" height="600" >
