@@ -6,7 +6,7 @@ A predição envolve uma classificação de um determinado conteudo do tweet se 
 
 
 <p align="center">
-  <img src="bar3.png" width="750" height="600" >
+  <img src="Imagens/bar3.png" width="750" height="600" >
 </p>
 
 
